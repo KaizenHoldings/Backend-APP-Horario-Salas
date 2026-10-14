@@ -30,6 +30,7 @@ api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
 
 def verificar_api_key(key: Optional[str] = Security(api_key_header)) -> None:
     """Dependencia que valida el header X-API-Key en cada request."""
+    
     if not key or key != API_KEY:
         raise HTTPException(
             status_code=401,
