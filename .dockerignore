@@ -1,0 +1,17 @@
+﻿# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Entorno local (se inyecta por docker-compose en produccion)
+.env
+
+# Tests y desarrollo
+test_*.py
+*.md
+.vscode/
+.git/

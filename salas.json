@@ -1,0 +1,9 @@
+{
+  "salas": [
+    {
+      "nombre": "Sala Kaizen Holdings",
+      "email": "sala.kh@kaizenholdings.net",
+      "timezone": "America/Caracas"
+    }
+  ]
+}

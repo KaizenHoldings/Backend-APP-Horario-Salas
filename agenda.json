@@ -1,0 +1,64 @@
+{
+  "sala": {
+    "nombre": "Sala Kaizen Holdings",
+    "email": "sala.kh@kaizenholdings.net",
+    "timezone": "America/Caracas"
+  },
+  "fecha": "2026-10-05",
+  "eventos": [
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMs5ArFAAA=",
+      "asunto": "Carlos Rivero ",
+      "organizador": "Carlos Rivero",
+      "correo_organizador": "crivero@kaizenholdings.net",
+      "inicio": "2026-10-05T09:00:00.0000000",
+      "fin": "2026-10-05T10:00:00.0000000",
+      "zona_horaria": "America/Caracas"
+    },
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMrqyShAAA=",
+      "asunto": "Alfredo Sandoval ",
+      "organizador": "Alfredo Sandoval",
+      "correo_organizador": "asandoval@kaizenholdings.net",
+      "inicio": "2026-10-05T10:00:00.0000000",
+      "fin": "2026-10-05T11:00:00.0000000",
+      "zona_horaria": "America/Caracas"
+    },
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMs5ArGAAA=",
+      "asunto": "Isabella León ",
+      "organizador": "Isabella León",
+      "correo_organizador": "ileon@socadocafe.com",
+      "inicio": "2026-10-05T11:00:00.0000000",
+      "fin": "2026-10-05T12:00:00.0000000",
+      "zona_horaria": "America/Caracas"
+    },
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMs5ArHAAA=",
+      "asunto": "Beatriz Pérez ",
+      "organizador": "Beatriz Pérez",
+      "correo_organizador": "bperez@corp-inveca.com",
+      "inicio": "2026-10-05T12:00:00.0000000",
+      "fin": "2026-10-05T13:30:00.0000000",
+      "zona_horaria": "America/Caracas"
+    },
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMrqySiAAA=",
+      "asunto": "Elsy Lira ",
+      "organizador": "Elsy Lira",
+      "correo_organizador": "elira@kaizenholdings.net",
+      "inicio": "2026-10-05T15:00:00.0000000",
+      "fin": "2026-10-05T16:00:00.0000000",
+      "zona_horaria": "America/Caracas"
+    },
+    {
+      "id": "AAMkAGQ0Nzc3MGQ2LTRjNTYtNDhhNy1iZjE4LWFkN2FiYTRkNzc2ZQBGAAAAAACOUVkl9UXUS4_z8EgovV-BBwDskS6mdqFxS4IHxA600tVfAAAAAAENAADskS6mdqFxS4IHxA600tVfAAMrqySmAAA=",
+      "asunto": "Andrea Di Natale ",
+      "organizador": "Andrea Di Natale",
+      "correo_organizador": "anatale@kaizenholdings.net",
+      "inicio": "2026-10-05T16:00:00.0000000",
+      "fin": "2026-10-05T17:00:00.0000000",
+      "zona_horaria": "America/Caracas"
+    }
+  ]
+}
